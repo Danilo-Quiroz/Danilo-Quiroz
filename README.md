@@ -1,7 +1,7 @@
 # DaniloQuiroz
 # Hola! 👋 Soy Danilo Quiroz
 
-> Soy Desarrollador Backend, aunque mi preferencia es el Backend, también tengo
+> Soy Desarrollador Fullstack, aunque mi preferencia es el Backend, también tengo
 > conocimiento en Frontend
 
 - 📧 Pongámonos en contacto! daniloquirozv@gmail.com
